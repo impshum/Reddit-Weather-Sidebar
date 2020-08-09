@@ -59,6 +59,7 @@ Displays the weather forecast in the sidebar for a chosen city.
 ### Notes
 
 -   The account that you use for the bot has to be a mod of the target subreddit and have the correct permissions to edit things.
+- The script only runs once. You can run it on https://www.pythonanywhere.com/ once a day for free.
 
 ### Tip
 
