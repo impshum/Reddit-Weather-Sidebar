@@ -6,6 +6,7 @@ Displays the weather forecast in the sidebar for a chosen city.
 
 -   Install requirements `pip install -r requirements.txt`
 -   Create Reddit (script) app at <https://www.reddit.com/prefs/apps/> and get keys
+-   Get an API key from <https://openweathermap.org>
 -   Edit conf.ini with your details
 -   Edit old Reddit stylesheet at <https://old.reddit.com/r/SUBREDDIT/about/stylesheet/> and add this CSS
 
@@ -51,7 +52,7 @@ Displays the weather forecast in the sidebar for a chosen city.
 `reddit_target_subreddit` - Subreddit to update sidebar  
 `reddit_widget_name` - Widget name (new Reddit style)  
 
-`weather_api_key` - c71d112853976a0c1f180b312ca78bd4  
+`weather_api_key` - API key from openweathermap
 `weather_units` metric  
 `weather_city` London,UK  
 
