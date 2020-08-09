@@ -52,7 +52,7 @@ Displays the weather forecast in the sidebar for a chosen city.
 `reddit_target_subreddit` - Subreddit to update sidebar  
 `reddit_widget_name` - Widget name (new Reddit style)  
 
-`weather_api_key` - API key from openweathermap
+`weather_api_key` - API key from openweathermap  
 `weather_units` metric  
 `weather_city` London,UK  
 
