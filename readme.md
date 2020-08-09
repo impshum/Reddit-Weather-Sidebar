@@ -2,7 +2,7 @@
 
 Displays the weather forecast in the sidebar for a chosen city.
 
-![](ss.png)
+![](s.png)
 
 ### Instructions
 
