@@ -2,6 +2,8 @@
 
 Displays the weather forecast in the sidebar for a chosen city.
 
+![](ss.png)
+
 ### Instructions
 
 -   Install requirements `pip install -r requirements.txt`
