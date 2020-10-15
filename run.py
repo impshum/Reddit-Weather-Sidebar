@@ -27,7 +27,7 @@ reddit = praw.Reddit(
     password=reddit_pass,
     client_id=reddit_client_id,
     client_secret=reddit_client_secret,
-    user_agent='Reddit Sibebar Weather (by u/impshum)'
+    user_agent='Reddit Sidebar Weather (by u/impshum)'
 )
 
 
